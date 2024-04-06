@@ -12,11 +12,6 @@ Repo FE: https://github.com/LeVSon1507/Blood-Donation
 
 https://www.giotmauhong.online/
 
-## Project Documents
-
--  [Project-Introduction](https://docs.google.com/document/d/1GF5K2AowJvYUtihUOlbKkeqMVbhv2cdS/edit?usp=sharing&ouid=114449823659198021809&rtpof=true&sd=true)
--  [Project Management Plan](https://docs.google.com/document/d/1mV2MjygX3xan4sbDf3cd5I-snohnSpaH/edit?usp=sharing&ouid=114449823659198021809&rtpof=true&sd=true)
--  [Software Requirement Specification](https://docs.google.com/document/d/1tOB4hy_fU0bfULUfxGN7ynFjSwYtr8Or/edit?usp=sharing&ouid=114449823659198021809&rtpof=true&sd=true)
 
 ## API Reference
 
